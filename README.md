@@ -1,9 +1,11 @@
 # Bridge Pattern — Shape × Renderer
 
-**Course:** ShP-2216 — Software Design Patterns  
+**Course:** git add README.md
+git commit -m "Add README documentation"
+git push — Software Design Patterns  
 **Institution:** Astana IT University  
 **Assignment:** #3 — Bridge Pattern  
-**Author:** abisenbeekk
+
 
 ---
 
