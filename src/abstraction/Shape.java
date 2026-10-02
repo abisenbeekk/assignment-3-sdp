@@ -5,7 +5,7 @@ import implementor.Renderer;
 
 public abstract class Shape {
 
-    protected Renderer renderer;   // ← көпір осы жерде
+    protected Renderer renderer;
 
     protected Shape(Renderer renderer) {
         this.renderer = renderer;
